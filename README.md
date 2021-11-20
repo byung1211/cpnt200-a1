@@ -6,7 +6,7 @@
   
 ### Attributions
 
-- **A cat image** from https://pixels.com
+- **A tiger image** from https://pixels.com
 
 ### Code Review
 	
