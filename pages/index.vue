@@ -23,7 +23,7 @@ a {
   color:blue;
   text-decoration:underline;
 }
-.nuxt-content-container {
+.nuxt-content-container, .nuxt-content {
   color:green;
 }
 </style>
