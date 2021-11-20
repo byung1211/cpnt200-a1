@@ -2,11 +2,11 @@
 ### Author: Byung Uk An
 ### Links to:
   - **Github Repo:** https://github.com/byung1211/cpnt200-a1
-  - **Netlify Webpage:** 
+  - **Netlify Webpage:** https://6198709cf0ab4d7f3b3251d6--affectionate-bassi-8163d1.netlify.app/
   
 ### Attributions
 
-- **A cat image** from https://pixels.com
+- **A tiger image** from https://pixels.com
 
 ### Code Review
 	
